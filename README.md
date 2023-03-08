@@ -1,2 +1,2 @@
 # mohona2
-https://github.com/mdalamin379/mohona.git
+ https://mdalamin379.github.io/mohona2/
